@@ -21,3 +21,11 @@ docker-compose down
 ```
 
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+
+# 起動
+
+- ローカルでのサーバ立ち上げ
+
+```
+npm run dev
+```
